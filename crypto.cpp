@@ -1,4 +1,5 @@
 #include "crypto.h"
+
 #include <iostream>
 #include <cctype>
 #include <cstring>
